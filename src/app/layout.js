@@ -11,10 +11,6 @@ const italiana = Italiana({
   weight: '400'
 })
 
-
-
-
-
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
