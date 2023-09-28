@@ -12,12 +12,7 @@ const italiana = Italiana({
 })
 
 
-export const  metadata  = {
-  icons:{
-    icon:['/favicon.ico?v=4'],
-    manifest:'/site.webmanifest'
-  }
-}
+
 
 
 export default function RootLayout({ children }) {
