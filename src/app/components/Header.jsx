@@ -9,7 +9,7 @@ const redressed = Redressed({
 
 export const Header = () => {
   return (
-   <header className='py-8 bg-slate-100 overscroll-contain text-[12px] lg:text[24px]  w-full h-full overflow-hidden'>
+   <header className='py-8 bg-slate-100 overscroll-contain text-[12px] lg:text[36px]  w-full h-full overflow-hidden'>
    <div className='container mx-auto'>
    <div className='flex items-center  font-medium'> 
    <Link href='/' className=' lg:ml8 ml-4'>Home</Link>
